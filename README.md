@@ -7,7 +7,7 @@ Do you have multiple Steam accounts and want to fetch various details from them 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install Steam Grabber.
 
 ```bash
-pip install steam_grabber
+pip install steam-grabber==0.1
 ```
 
 ## Usage
